@@ -14,6 +14,7 @@ import java.util.Random;
  * @author Administrator
  */
 public class Send {
+//wsq添加了注释
 
     //发送短信验证码   参数：发送短信需要的参数,发送短信调用的url
     public static String SMS(String postData, String postUrl) {
